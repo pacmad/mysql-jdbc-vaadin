@@ -1,4 +1,4 @@
-# MySQL and Vaadin integration example using Spring JDBC template
+# MySQL and Vaadin integration example using Spring JDBC template1
 
 This example shows how to build a web UI for an existing MySQL database using plain Java.
 
